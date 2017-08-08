@@ -1,0 +1,19 @@
+{
+  "name": "app3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "botbuilder": "^3.9.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "restify": "^5.0.1",
+    "uuid": "^3.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
